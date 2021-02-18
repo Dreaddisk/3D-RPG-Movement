@@ -106,7 +106,7 @@ NavMeshSettings:
   m_BuildSettings:
     serializedVersion: 2
     agentTypeID: 0
-    agentRadius: 0.5
+    agentRadius: 0.61
     agentHeight: 2
     agentSlope: 60
     agentClimb: 0.4
@@ -2080,8 +2080,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0.23798649, y: 0.5058604, z: -0.14754759, w: 0.8159028}
-  m_LocalPosition: {x: -7.350222, y: 13.500647, z: -3.8649244}
+  m_LocalRotation: {x: -0.10308692, y: 0.8967387, z: -0.31349194, w: -0.2948824}
+  m_LocalPosition: {x: 29.666273, y: 27.627234, z: 33.921787}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
